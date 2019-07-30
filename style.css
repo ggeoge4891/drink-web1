@@ -1,0 +1,23 @@
+
+body {
+    /* 高度  H100p*/
+    height: 100%;
+    /* 背景圖片 BGI*/
+    background-image: url("https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    /* 背景大小 BGZ */
+    background-size: cover;
+
+    }
+
+    /* 所以元素 */
+    *{
+        /* 邊寬 - bd */
+        border: 0.2px solid rgba(255,0,0,0.3);
+        /* 字體 ff */
+        font-family: 微軟正黑體;
+        /* 自體顏色 c#顏色代碼 */
+        color: #ffffff;
+
+    }#box{
+    /* background-color: rgba(0,0,0,0.3); */
+    height: 500px; }
